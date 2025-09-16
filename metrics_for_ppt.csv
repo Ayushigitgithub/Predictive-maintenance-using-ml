@@ -1,0 +1,7 @@
+Metrics,Value
+Rows,10000
+Columns,14
+Missing values,0 (all columns)
+Unique Product ID,10000 / 10000
+Data types,"numeric (12), categorical (2)"
+Memory usage,~2.1 MB
